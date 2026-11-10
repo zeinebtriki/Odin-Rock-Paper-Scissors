@@ -97,7 +97,7 @@ function playGame(nbGames) {
         computerScore += updateScoreComputer(outcome);
     }
 
-    showResults(humanScore,computerScore)
+    showResults(humanScore,computerScore);
 }
 
 
